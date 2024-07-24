@@ -1,0 +1,50 @@
+body{
+    background-color: lightcyan;
+    text-align: center;
+}
+div{
+    text-align: left;
+}
+div1{
+    text-align: center;
+}
+div2{
+    text-align: center;
+}
+div3{
+    text-align: center;
+}
+div4{
+    text-align: center;
+}
+div5{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+tr{
+    text-align: center;
+}
+h1{
+    color: palevioletred;
+}
+ol{
+    text-align: left;
+}
+span{
+    text-align: left;
+}
+span1{
+    text-decoration-line: line-through;
+}
+span2{
+    text-decoration: underline;
+}
+p1{
+    font-style: italic;
+    text-align: left;
+}
